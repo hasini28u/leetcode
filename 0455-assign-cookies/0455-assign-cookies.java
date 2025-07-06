@@ -12,9 +12,8 @@ class Solution {
                 j++;
             }
             else{
-                if(j+1<=s.length){
-                    j++;
-                }
+                j++;
+                
             } 
             
         }
