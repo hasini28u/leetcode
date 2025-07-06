@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/hasini28u/leetcode/tree/master/0455-assign-cookies) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/hasini28u/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-string-matching-in-an-array](https://github.com/hasini28u/leetcode/tree/master/1524-string-matching-in-an-array) |
 ## String
@@ -20,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/hasini28u/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/hasini28u/leetcode/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/hasini28u/leetcode/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/hasini28u/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
