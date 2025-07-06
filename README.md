@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/hasini28u/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1524-string-matching-in-an-array](https://github.com/hasini28u/leetcode/tree/master/1524-string-matching-in-an-array) |
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/hasini28u/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1524-string-matching-in-an-array](https://github.com/hasini28u/leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Prefix Sum
 |  |
