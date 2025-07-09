@@ -1,10 +1,8 @@
 class Solution {
     public boolean canThreePartsEqualSum(int[] arr) {
         int avg=0;
-        List<Integer> res = new ArrayList<>();
         for(int i=0;i<arr.length;i++){
             avg+=arr[i];
-            res.add(arr[i]);
         }
         if(avg%3 !=0){
             return false;
