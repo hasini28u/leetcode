@@ -13,13 +13,10 @@ class Solution {
 
         int sum = 0;
         int count = 0;
-        //boolean isPresent = false;
         boolean result = false;
         for(int i=0;i<arr.length;i++){
             sum += arr[i];
-            // if(sum < avg){
-            //     isPresent = res.contains(sum-avg);
-            // }
+        
             if(sum == avg){
                 sum=0;
                 count++;
