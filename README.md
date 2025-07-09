@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1054-complement-of-base-10-integer](https://github.com/hasini28u/leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hasini28u/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
