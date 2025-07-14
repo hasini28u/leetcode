@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/hasini28u/leetcode/tree/master/0292-nim-game) |
+| [0441-arranging-coins](https://github.com/hasini28u/leetcode/tree/master/0441-arranging-coins) |
 | [1279-prime-arrangements](https://github.com/hasini28u/leetcode/tree/master/1279-prime-arrangements) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hasini28u/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/hasini28u/leetcode/tree/master/0292-nim-game) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/hasini28u/leetcode/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
