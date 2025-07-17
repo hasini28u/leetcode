@@ -13,11 +13,13 @@ class Solution {
                 left++;
                 right--;
             }
-            if(!vowels.contains(l)){
-                left++;
-            }
-            if(!vowels.contains(r)){
-                right--;
+            else{
+                if(!vowels.contains(l)){
+                    left++;
+                }
+                else if(!vowels.contains(r)){
+                    right--;
+                }
             }
 
         }
