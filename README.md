@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/hasini28u/leetcode/tree/master/0027-remove-element) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hasini28u/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/hasini28u/leetcode/tree/master/0455-assign-cookies) |
 | [1044-find-common-characters](https://github.com/hasini28u/leetcode/tree/master/1044-find-common-characters) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/hasini28u/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hasini28u/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1044-find-common-characters](https://github.com/hasini28u/leetcode/tree/master/1044-find-common-characters) |
 | [1123-single-row-keyboard](https://github.com/hasini28u/leetcode/tree/master/1123-single-row-keyboard) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hasini28u/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
