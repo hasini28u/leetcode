@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hasini28u/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/hasini28u/leetcode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/hasini28u/leetcode/tree/master/0645-set-mismatch) |
+| [1019-squares-of-a-sorted-array](https://github.com/hasini28u/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/hasini28u/leetcode/tree/master/1044-find-common-characters) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/hasini28u/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/hasini28u/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/hasini28u/leetcode/tree/master/0027-remove-element) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hasini28u/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/hasini28u/leetcode/tree/master/0455-assign-cookies) |
+| [1019-squares-of-a-sorted-array](https://github.com/hasini28u/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/hasini28u/leetcode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/hasini28u/leetcode/tree/master/0645-set-mismatch) |
+| [1019-squares-of-a-sorted-array](https://github.com/hasini28u/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/hasini28u/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hasini28u/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
