@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/hasini28u/leetcode/tree/master/0027-remove-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hasini28u/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/hasini28u/leetcode/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/hasini28u/leetcode/tree/master/0645-set-mismatch) |
 | [1044-find-common-characters](https://github.com/hasini28u/leetcode/tree/master/1044-find-common-characters) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/hasini28u/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/hasini28u/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -49,12 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/hasini28u/leetcode/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/hasini28u/leetcode/tree/master/0645-set-mismatch) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/hasini28u/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hasini28u/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hasini28u/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/hasini28u/leetcode/tree/master/0645-set-mismatch) |
 | [1044-find-common-characters](https://github.com/hasini28u/leetcode/tree/master/1044-find-common-characters) |
 | [1123-single-row-keyboard](https://github.com/hasini28u/leetcode/tree/master/1123-single-row-keyboard) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hasini28u/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/hasini28u/leetcode/tree/master/0645-set-mismatch) |
 | [1054-complement-of-base-10-integer](https://github.com/hasini28u/leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/hasini28u/leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hasini28u/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
