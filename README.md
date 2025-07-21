@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/hasini28u/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1044-find-common-characters](https://github.com/hasini28u/leetcode/tree/master/1044-find-common-characters) |
 | [1123-single-row-keyboard](https://github.com/hasini28u/leetcode/tree/master/1123-single-row-keyboard) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/hasini28u/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/hasini28u/leetcode/tree/master/1524-string-matching-in-an-array) |
 ## String Matching
 |  |
