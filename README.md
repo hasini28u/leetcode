@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/hasini28u/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-string-matching-in-an-array](https://github.com/hasini28u/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hasini28u/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1813-maximum-erasure-value](https://github.com/hasini28u/leetcode/tree/master/1813-maximum-erasure-value) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/hasini28u/leetcode/tree/master/1044-find-common-characters) |
 | [1123-single-row-keyboard](https://github.com/hasini28u/leetcode/tree/master/1123-single-row-keyboard) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hasini28u/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1813-maximum-erasure-value](https://github.com/hasini28u/leetcode/tree/master/1813-maximum-erasure-value) |
 ## Math
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/hasini28u/leetcode/tree/master/0441-arranging-coins) |
+## Sliding Window
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/hasini28u/leetcode/tree/master/1813-maximum-erasure-value) |
 <!---LeetCode Topics End-->
