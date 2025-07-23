@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-single-row-keyboard](https://github.com/hasini28u/leetcode/tree/master/1123-single-row-keyboard) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hasini28u/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/hasini28u/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/hasini28u/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## String Matching
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/hasini28u/leetcode/tree/master/0455-assign-cookies) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/hasini28u/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/hasini28u/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/hasini28u/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/hasini28u/leetcode/tree/master/1813-maximum-erasure-value) |
+## Stack
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/hasini28u/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
