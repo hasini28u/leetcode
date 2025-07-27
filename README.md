@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/hasini28u/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hasini28u/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/hasini28u/leetcode/tree/master/1813-maximum-erasure-value) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/hasini28u/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## String
 |  |
 | ------- |
