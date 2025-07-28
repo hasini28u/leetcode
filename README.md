@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/hasini28u/leetcode/tree/master/0013-roman-to-integer) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hasini28u/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/hasini28u/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1044-find-common-characters](https://github.com/hasini28u/leetcode/tree/master/1044-find-common-characters) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/hasini28u/leetcode/tree/master/0013-roman-to-integer) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hasini28u/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/hasini28u/leetcode/tree/master/0645-set-mismatch) |
 | [1044-find-common-characters](https://github.com/hasini28u/leetcode/tree/master/1044-find-common-characters) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/hasini28u/leetcode/tree/master/0013-roman-to-integer) |
 | [0292-nim-game](https://github.com/hasini28u/leetcode/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/hasini28u/leetcode/tree/master/0441-arranging-coins) |
 | [1279-prime-arrangements](https://github.com/hasini28u/leetcode/tree/master/1279-prime-arrangements) |
